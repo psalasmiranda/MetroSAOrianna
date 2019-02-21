@@ -1,0 +1,14 @@
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\bin\Debug\Atrox.exe
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\bin\Debug\Atrox.pdb
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\bin\Debug\Atrox.xml
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Resources.resources
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.vbproj.GenerateResource.Cache
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.exe
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.xml
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.pdb
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Form1.resources
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Form2.resources
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Form3.resources
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Form4.resources
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Form5.resources
+C:\Users\gowth\OneDrive\Escritorio\Atrox\Atrox\obj\x86\Debug\Atrox.Form6.resources
